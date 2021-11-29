@@ -1,4 +1,4 @@
-### OI 👋 eu sou Weslei Bruno Santana
+### OI 👋 eu sou Weslei Bruno de Santana
 
 
 <!--
