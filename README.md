@@ -6,12 +6,12 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Front-end/Back-end
-- 🌱 I’m currently learning Typescript/Reactjs/Nodejs/Tailwind-css/NextJS/Shadcn-ui/Prisma ORM/
+<!-- 🔭 I’m currently working on Front-end/Back-end Typescript/Reactjs/Nodejs/Tailwind-css/NextJS/Shadcn-ui/Prisma ORM/
+<!-- 🌱 I’m currently learning Typescript/Reactjs/Nodejs/Tailwind-css/NextJS/Shadcn-ui/Prisma ORM/
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: weslei945@gmail.com
+<!-- 📫 How to reach me: weslei945@gmail.com
 <!-- - 😄 Pronouns:  -->
 <!-- - ⚡ Fun fact: ... -->
 
